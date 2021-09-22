@@ -9,3 +9,19 @@
 * CSS
 * JavaScript
 * Version control: Git
+## ** Code examples**
+```javascript
+<html>
+<body>
+  <p>Перед скриптом...</p>
+  <script>
+    alert( 'Привет, мир!' );
+  </script>
+  <p>...После скрипта.</p>
+</body>
+</html>
+```
+## ** Education **
+ University: Belarusian State University of Transport
+ ## ** English **
+  A2
