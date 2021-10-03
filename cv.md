@@ -1,26 +1,26 @@
 # **Dmitry Mikhalko**
-## **Contacts for communication**
+**Contacts for communication**
 * Phone: +375333716504
 * Mail: dmikhalko@inbox.ru
-## **Summary**
+**Summary**
 *I work as a railroad electromechanic. The job is interesting, but low-paid. So I decided to change something in my life. And that's why I'm here.*
-## **Skills**
+**Skills**
 * HTML
 * CSS
 * JavaScript
 * Version control: Git
-## **Code examples**
+**Code examples**
 ```<html>
 <body>
   <p>Перед скриптом...</p>
   <script>
-    alert( 'Привет, мир!' );
+    alertr( 'Привет, мир!' );
   </script>
   <p>...После скрипта.</p>
 </body>
 </html>
 ```
-## **Education**
+**Education**
 University: Belarusian State University of Transport
-## **English**
+**English**
 A2
